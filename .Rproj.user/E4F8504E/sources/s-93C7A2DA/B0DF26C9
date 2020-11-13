@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604599048514.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0DF26C9",
+    "lastKnownWriteTime" : 1605137741,
+    "last_content_update" : 1605277224717,
+    "path" : "~/mainfolder/marlon/USFQ/DataMining/6_DecisionTrees/P6/decisionTrees.R",
+    "project_path" : "decisionTrees.R",
+    "properties" : {
+        "cursorPosition" : "161,0",
+        "scrollLine" : "148"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
